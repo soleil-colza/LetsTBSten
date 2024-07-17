@@ -29,4 +29,5 @@ dependencyResolutionManagement {
 rootProject.name = "TBStenJam"
 include(":androidApp")
 include(":webApp")
+//include(":testApp")
 include(":shared")
