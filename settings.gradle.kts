@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TBStenJam"
 include(":androidApp")
- 
+include(":shared")
