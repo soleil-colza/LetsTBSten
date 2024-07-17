@@ -29,6 +29,8 @@ kotlin {
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
+            implementation(compose.material3)
+            implementation(compose.components.resources)
 
             implementation(project(":shared"))
         }
@@ -41,3 +43,9 @@ kotlin {
 //        download = false
 //    }
 //}
+
+compose.resources {
+    publicResClass = true
+    packageOfResClass = "com.example.tbstenjam.webapp"
+    generateResClass = always
+}
