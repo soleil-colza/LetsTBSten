@@ -10,7 +10,7 @@ env:
   JAVA_VERSION: 17
 
 permissions:
-  pull-requests: write
+  contents: write
 
 jobs:
   deploy-web:
