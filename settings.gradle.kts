@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "TBStenJam"
-include(":app")
+include(":androidApp")
  
