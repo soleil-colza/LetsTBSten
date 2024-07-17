@@ -1,4 +1,4 @@
-package com.example.tbstenjam.ui.theme
+package com.example.tbstenjam.shared.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

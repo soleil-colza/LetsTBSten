@@ -1,4 +1,4 @@
-package com.example.tbstenjam.ui.theme
+package com.example.tbstenjam.shared.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
